@@ -1,0 +1,155 @@
+.container
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header
+{
+    background-color: #0c2476;
+    font-family: "Poppins";
+}
+
+.header a 
+{
+    color: white;
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: 'OrelegaOne';
+    src: url(../fonts/OrelegaOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+.footer
+{
+    background-color: #0c2476;
+    font-family: "Poppins";
+}
+
+.heroBannerHome
+{
+    background-color: black;
+    background-image: url("../img/heroBanner.png");
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.heroBanner h1
+{
+    font-family: "OrelegaOne";
+}
+
+.heroBanner h3
+{
+    font-family: "Poppins";
+}
+
+.learnPracticeNews
+{
+    background-color: white;
+    font-family: "Poppins";
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.learnPracticeNews img 
+{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.ourModules
+{
+    background-color: #c3cef4;
+    font-family: "Poppins";
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.practice 
+{
+    background-color: white;
+    font-family: "Poppins";
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.articles 
+{
+    background-color: #c3cef4;
+    font-family: "Poppins";
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.signup
+{
+    background-color: white;
+    font-family: "Poppins";
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+
+/* PRACTICE */
+
+.cryptoIcons
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.ticker 
+{
+    text-align: center;
+}
+
+.priceAndTrend
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.portfolio 
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.buyAndSell 
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.buyAndSell img 
+{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.leaderboard
+{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
