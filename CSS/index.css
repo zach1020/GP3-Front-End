@@ -30,6 +30,13 @@
 {
     background-color: #0c2476;
     font-family: "Poppins";
+    color: white;
+}
+
+.footer a 
+{
+    color: white;
+    text-decoration: none;
 }
 
 .heroBannerHome
@@ -152,4 +159,54 @@
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+/* PROFILE */
+
+.profilePic 
+{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.moneyEarned
+{
+    text-align: center;
+}
+
+.badges
+{
+    text-align: center;
+}
+
+.savedArticles
+{
+    text-align: center;
+    padding-bottom: 75px;
+}
+
+/* NEWS */
+
+.newsRow 
+{
+    text-align: center;
+}
+
+.savedArticlesButton
+{
+    padding-top: 50px;
+    padding-right: 50px;
+    text-align: right;
+}
+
+/* LEARNING */
+
+.learningHeroBanner
+{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    font-family: "OrelegaOne";
+    text-align: center;
+    color: white;
+    background-image: url("../img/learningHeroBanner.png");
 }
