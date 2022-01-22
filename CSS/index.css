@@ -210,3 +210,37 @@
     color: white;
     background-image: url("../img/learningHeroBanner.png");
 }
+
+.learningBar 
+{
+    text-align: center;
+}
+
+.modules 
+{
+    text-align: center;
+}
+
+.module1 
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.module2
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.module3
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.module4
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
